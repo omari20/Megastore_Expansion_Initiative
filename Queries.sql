@@ -1,0 +1,9 @@
+-- CHECKING ALL TABLES
+
+SELECT * 
+FROM transactions
+LIMIT 5;
+
+SELECT * 
+FROM customer
+LIMIT 5;

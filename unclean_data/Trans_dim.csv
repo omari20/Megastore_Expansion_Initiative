@@ -1,0 +1,40 @@
+payment_id,trans_type,bank_name
+P001,cash,Telent National
+P002,card,First National Bank
+P003,card,Liberty Bank
+P004,card,American Savings Bank
+P005,card,Capital One
+P006,card,City National Bank
+P007,card,Federal Reserve Bank
+P008,card,Community Trust Bank
+P009,card,Heartland Bank
+P010,card,Liberty Mutual Bank
+P011,card,Eagle Bank
+P012,card,Infinity Bank
+P013,card,Summit Bank
+P014,card,Horizon Bank
+P015,card,Metropolitan Bank
+P016,card,Patriot Bank
+P017,card,Unity Bank
+P018,card,Premier Community Bank
+P019,card,Security Bank
+P020,card,Main Street Bank
+P021,card,Valley National Bank
+P022,card,Commerce Bank
+P023,card,Republic Bank
+P024,card,Pacific Bank
+P025,card,Keystone Bank
+P026,card,Harbor Bank
+P027,card,SunTrust Bank
+P028,card,Heritage Bank
+P029,card,United Bank
+P030,card,Pioneer Bank
+P031,card,Riverside Bank
+P032,card,Oak Bank
+P033,card,Peoples Bank
+P034,card,Prairie Bank
+P035,card,MobileBank
+P036,card,SwiftPay
+P037,mobile,QuickCash
+P038,mobile,Rocket
+P039,mobile,Nagad
